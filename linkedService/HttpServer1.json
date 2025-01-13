@@ -5,11 +5,11 @@
 		"annotations": [],
 		"type": "HttpServer",
 		"typeProperties": {
-			"url": "https://github.com.vijaimahesh5/CapstoneProject",
+			"url": "https://github.com/vijaimahesh5/CapstoneProject/blob/main/Superstore_orders_data_day1.csv",
 			"enableServerCertificateValidation": true,
 			"authenticationType": "Basic",
 			"userName": "user",
-			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDE4NjA5ODNDLUIyMUItNDdDRi04Rjk4LTYxQjY5N0RBNjdCQV8zNDMwMzFjNS1lMmFhLTQ0MmEtOWI5NS02ZGE2ZDQzYWY3ZGUiDQp9"
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDE4NjA5ODNDLUIyMUItNDdDRi04Rjk4LTYxQjY5N0RBNjdCQV83YmFmZTIzNC0zYTAzLTQ0YzEtYmIzNi1kMzFmNTI3NzA3YTYiDQp9"
 		}
 	}
 }
